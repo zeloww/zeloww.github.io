@@ -15,10 +15,11 @@ a {
     color: white;
     text-decoration: none;
     font-family: Montserrat;
-    font-size: 1.3em;
+    font-size: 1.1em;
 }
 
 img {
+    width: 8vw;
     border-style: solid;
     border-radius:50%;
     border-color:rgb(31, 30, 30);
