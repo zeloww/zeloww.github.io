@@ -56,7 +56,7 @@ li {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 1.5vw;
     color: white;
     font-family: Poppins;
     font-style: bold;
@@ -65,13 +65,13 @@ h1 {
 
 h2 {
     font-family: Montserrat;
-    font-size: 1.2em;
+    font-size: 1vw;
     color: grey;
 }
 
 p {
     font-family: Montserrat;
-    font-size: 0.8em;
+    font-size: 0.8vw;
     color: white;
 
     position: absolute;
