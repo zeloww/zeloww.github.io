@@ -7,10 +7,11 @@
 body {
     background-color:rgb(20, 20, 20);
     background-size: 100%;
+    margin: 3em;
     text-align: center;
 
-    width: 100%;
     height: 100%;
+    overflow: hidden;
 }
 
 a {
@@ -21,7 +22,7 @@ a {
 }
 
 img {
-    width: 8vw;
+    width: 50%;
     border-style: solid;
     border-radius:50%;
     border-color:rgb(31, 30, 30);
@@ -48,15 +49,6 @@ img {
 
 svg {
     color: grey;
-}
-
-ul {
-    position: absolute;
-    top: 2%;
-    left: 50%;
-    -moz-transform: translateX(-50%) translateY(-50%);
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-60%);
 }
 
 li {
